@@ -20,17 +20,11 @@
 
 ## Installation
 
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/votre-application.git
-   cd votre-application
-
-Sinon :
 1. Télécharger le zip du projet
 2. Décompresser le zip
 3. Ouvrir le dossier dans un éditeur de code
-4. Configurer la base de données
+4. Configurer la base de données en créant une base de données Users
 5. Changer les données de la base de données dans le fichier app.py
 6. Démarrer le serveur MySQL
-7. Exécuter app.py dans un terminal
-8. Aller sur la page https://localhost:5000
+8. Exécuter app.py dans un terminal
+9. Aller sur la page https://localhost:5000
